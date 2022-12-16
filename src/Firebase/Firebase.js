@@ -5,12 +5,12 @@ import "firebase/compat/auth";
 import "firebase/compat/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDB1jayC8UE_HS7ac6rwATzcKKJ787KEuo",
-  authDomain: "twitter-48a2e.firebaseapp.com",
-  projectId: "twitter-48a2e",
-  storageBucket: "twitter-48a2e.appspot.com",
-  messagingSenderId: "944950951526",
-  appId: "1:944950951526:web:b884dbdbe0883bc09377a7",
+    apiKey: "AIzaSyA74ZvfzfZVmopLVsbl88Y02CUaXNWGgwk",
+  authDomain: "roblox-29707.firebaseapp.com",
+  projectId: "roblox-29707",
+  storageBucket: "roblox-29707.appspot.com",
+  messagingSenderId: "1025034692104",
+  appId: "1:1025034692104:web:628690bd4a9e9bf83293bd",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
